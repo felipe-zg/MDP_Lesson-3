@@ -1,0 +1,5 @@
+# MDP_Lesson-3
+
+# Screen shots
+
+## SCREEN SHOTS ARE ON A .PDF FILE IN THE ROOT OF PROJECT
